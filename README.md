@@ -20,9 +20,7 @@ A decentralized automation system built on blockchain technology that allows use
 ## Project Structure
 
 ```
-src/
-├── contracts/       # Smart contracts and deployment scripts
-├── scripts/        # Automation scripts and utilities
+dist/
 └── manager/        # Automation manager and orchestration code
 ```
 
@@ -30,7 +28,7 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mycelium-automation-dist.git
+git clone https://github.com/od41/mycelium-automation-dist.git
 cd mycelium-automation-dist
 ```
 
